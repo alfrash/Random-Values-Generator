@@ -1,0 +1,15 @@
+C:\Users\ahmed\C\csharp-projrcts\Random-Values-Generator\Random-Values-Generator\Random-Values-Generator\bin\Debug\net8.0\Random-Values-Generator.exe
+C:\Users\ahmed\C\csharp-projrcts\Random-Values-Generator\Random-Values-Generator\Random-Values-Generator\bin\Debug\net8.0\Random-Values-Generator.deps.json
+C:\Users\ahmed\C\csharp-projrcts\Random-Values-Generator\Random-Values-Generator\Random-Values-Generator\bin\Debug\net8.0\Random-Values-Generator.runtimeconfig.json
+C:\Users\ahmed\C\csharp-projrcts\Random-Values-Generator\Random-Values-Generator\Random-Values-Generator\bin\Debug\net8.0\Random-Values-Generator.dll
+C:\Users\ahmed\C\csharp-projrcts\Random-Values-Generator\Random-Values-Generator\Random-Values-Generator\bin\Debug\net8.0\Random-Values-Generator.pdb
+C:\Users\ahmed\C\csharp-projrcts\Random-Values-Generator\Random-Values-Generator\Random-Values-Generator\obj\Debug\net8.0\Random-Values-Generator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmed\C\csharp-projrcts\Random-Values-Generator\Random-Values-Generator\Random-Values-Generator\obj\Debug\net8.0\Random-Values-Generator.AssemblyInfoInputs.cache
+C:\Users\ahmed\C\csharp-projrcts\Random-Values-Generator\Random-Values-Generator\Random-Values-Generator\obj\Debug\net8.0\Random-Values-Generator.AssemblyInfo.cs
+C:\Users\ahmed\C\csharp-projrcts\Random-Values-Generator\Random-Values-Generator\Random-Values-Generator\obj\Debug\net8.0\Random-Values-Generator.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\C\csharp-projrcts\Random-Values-Generator\Random-Values-Generator\Random-Values-Generator\obj\Debug\net8.0\Random-Values-Generator.sourcelink.json
+C:\Users\ahmed\C\csharp-projrcts\Random-Values-Generator\Random-Values-Generator\Random-Values-Generator\obj\Debug\net8.0\Random-Values-Generator.dll
+C:\Users\ahmed\C\csharp-projrcts\Random-Values-Generator\Random-Values-Generator\Random-Values-Generator\obj\Debug\net8.0\refint\Random-Values-Generator.dll
+C:\Users\ahmed\C\csharp-projrcts\Random-Values-Generator\Random-Values-Generator\Random-Values-Generator\obj\Debug\net8.0\Random-Values-Generator.pdb
+C:\Users\ahmed\C\csharp-projrcts\Random-Values-Generator\Random-Values-Generator\Random-Values-Generator\obj\Debug\net8.0\Random-Values-Generator.genruntimeconfig.cache
+C:\Users\ahmed\C\csharp-projrcts\Random-Values-Generator\Random-Values-Generator\Random-Values-Generator\obj\Debug\net8.0\ref\Random-Values-Generator.dll
